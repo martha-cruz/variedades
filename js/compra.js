@@ -27,6 +27,8 @@ if (cliente.value === '' || correo.value === '' || direccion.value === ''|| celu
             text: 'Ingrese todos los campos requeridos',
             showConfirmButton: false,
             timer: 5000
+        }).then(function () {
+            window.location = "compra.html";
         })
     }
     else {
