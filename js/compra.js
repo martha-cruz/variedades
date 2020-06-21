@@ -1,6 +1,5 @@
 
 const procesarCompraBtn = document.getElementById('procesar-compra');
-const procesarCompraBtn1 = document.getElementById('procesar-compra1');
 const cliente = document.getElementById('cliente');
 const correo = document.getElementById('correo');
 const direccion = document.getElementById('direccion');
